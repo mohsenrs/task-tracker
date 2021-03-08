@@ -19,4 +19,13 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+button {
+  padding: 8px 10px;
+  background: rgb(36, 194, 194);
+  border: none;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: 550;
+}
+</style>
